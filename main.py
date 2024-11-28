@@ -11,7 +11,7 @@ def main():
     """)
     
     # Create a button that opens the Colab notebook
-    if st.button("Open Colab Notebook"):
+    if st.button("Open G Colab Notebook"):
         st.markdown("""
         <a href="https://colab.research.google.com/drive/1aERdZDJdqINbNh_O9mIn4il_eJo3s60G" 
            target="_blank" 
