@@ -1,12 +1,12 @@
 import streamlit as st
 
 def main():
-    st.title("Google Colab Notebook Link")
+    st.title("Project X")
     
     st.markdown("""
     ## Colab Notebook Link
     
-    Click the button below to open the Google Colab notebook:
+    Still Working:
     
     """)
     
@@ -26,7 +26,7 @@ def main():
     ### Direct Link
     If the button doesn't work, you can copy and paste this link:
     
-    https://colab.research.google.com/drive/1aERdZDJdqINbNh_O9mIn4il_eJo3s60G
+    https://colab.research.google.com/drive/1aERdZDJdqINbNh_O9mIn4il_eJo3s60GrajanX
     """)
 
 if __name__ == "__main__":
