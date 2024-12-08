@@ -13,7 +13,7 @@ def main():
     # Create a button that opens the Colab notebook
     if st.button("Open G Colab Notebook"):
         st.markdown("""
-        <a href="https://colab.research.google.com/drive/1w1DJXh3wphJXcM-aCUbWvB-1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1" 
+        <a href="https://colab.research.google.com/drive/1w1DJXh3w1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1" 
            target="_blank" 
            style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; 
            color: white; text-decoration: none; border-radius: 5px;">
@@ -26,7 +26,7 @@ def main():
     ### Direct Link
     If the button doesn't work, you can copy and paste this link:
     
-    https://colab.research.google.com/drive/1w1DJXh3wphJXcM-aCUbWvB-1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1
+    https://colab.research.google.com/drive/1w1DJXh3wphJXcM-aCUbWvB-1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1rajan1
     """)
 
 if __name__ == "__main__":
