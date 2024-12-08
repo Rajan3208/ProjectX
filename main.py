@@ -26,7 +26,7 @@ def main():
     ### Direct Link
     If the button doesn't work, you can copy and paste this link:
     
-    https://colab.research.google.com/drive/1w1DJXh3wphJXcM-aCUbWvB-1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1rajan1
+    https://colab.research.google.com/drive/rajan11w1DJXh3wphJXcM-aCUbWvB-1SPmRIYv8#scrollTo=czZZDSdxRcYB&uniqifier=1
     """)
 
 if __name__ == "__main__":
