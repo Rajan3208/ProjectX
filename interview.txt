@@ -1,0 +1,9 @@
+Hi, I am Rajan from the Global Institute of Technology, Jaipur, where I am pursuing a B.Tech in Computer Science and Engineering. I am currently in my third year.
+
+Recently, I completed a research internship at IIT Jammu in the field of Artificial Intelligence. In early August, I was selected for BigBricks Academy, where I successfully completed Data Engineering training hosted by Celebal Technologies.
+
+I am proficient in building Android applications, API development, testing, deployment, and training small-sized machine learning models.
+
+When it comes to technical skills, I have strong knowledge of Node.js, Flutter, Kotlin, Python, JavaScript, C++, Express.js, MongoDB, SQL, and a working knowledge of React.js.
+
+I am also experienced with SaaS tools such as Google Cloud, Firebase, Supabase, and Microsoft Azure. I have deployed machine learning models on Google Cloud and set up backends for Android and web applications.
